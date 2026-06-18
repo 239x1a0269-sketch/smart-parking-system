@@ -5,8 +5,9 @@ from datetime import datetime
 from database import (
     add_vehicle,
     remove_vehicle,
-    get_vehicle,
-    count_vehicles
+    search_vehicle,
+    get_all_vehicles,
+    vehicle_count
 )
 
 from parking_manager import (
