@@ -26,4 +26,4 @@ smart_parking_advanced/
 ├── gui.py
 ├── main.py
 ├── requirements.txt
-└── README.md
+└── REDME.md
